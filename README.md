@@ -60,6 +60,8 @@ bricks the agent. Both hooks here follow that.
 3. Start a new session — you should see your project context printed at the top.
    Requires Python 3 on PATH.
 
+![Claude Code Pro Kit](.github/assets/pro-kit-cover.png)
+
 ## Want the full kit?
 
 This is the starter subset. The **Claude Code Pro Kit** adds:
