@@ -76,7 +76,7 @@ This is the starter subset. The **Claude Code Pro Kit** adds:
   that makes expensive-model sessions cheap, and the cross-cutting patterns
   (scan-cheap-verify-skeptical, context injection, guard-with-code) that make it all pay off.
 
-➡️ **Get the Pro Kit: [ko-fi.com/claudecodekit](https://ko-fi.com/claudecodekit)**
+➡️ **Get the Pro Kit: [payhip.com/claudecodekit](https://payhip.com/claudecodekit)** (also on [Ko-fi](https://ko-fi.com/claudecodekit))
 
 ## License
 MIT. Use it, adapt it, ship it.
